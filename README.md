@@ -1,4 +1,4 @@
-# Counter Loyiha
+# Counter
 
 Bu loyiha oddiy **raqam sanagich** (Counter) ilovasini o'z ichiga oladi. Ilova foydalanuvchiga raqamni oshirish, kamaytirish va qayta tiklash imkonini beradi.
 
